@@ -1,0 +1,6 @@
+@SimpleNetCoreAPI_HostAddress = http://localhost:5042
+
+GET {{SimpleNetCoreAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
